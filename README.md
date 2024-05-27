@@ -1,4 +1,4 @@
-sarmasikerol/README.md
+
 
 - 👋 Hello, I am Erol Sarmasık. My passion for programming started in the Management Information Systems undergraduate field
 - 😻 🔭 I’m currently working on Front-End, Back-End, Mobile
